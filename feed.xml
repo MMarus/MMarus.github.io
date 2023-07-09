@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-09T20:02:14+02:00</updated><id>http://localhost:4000/</id><title type="html">Marek Marusic</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">My projects during FIT</title><link href="http://localhost:4000/2017/10/07/fit-projects.html" rel="alternate" type="text/html" title="My projects during FIT" /><published>2017-10-07T11:37:34+02:00</published><updated>2017-10-07T11:37:34+02:00</updated><id>http://localhost:4000/2017/10/07/fit-projects</id><content type="html" xml:base="http://localhost:4000/2017/10/07/fit-projects.html">&lt;p&gt;List of all projects I have done during the study at FIT. They are sorted from newest to oldest.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2023-07-09T13:17:54-05:00</updated><id>http://0.0.0.0:4000/</id><title type="html">Marek Marusic</title><subtitle>Marek Marusic - Software Engineer passionate about technology, who is always looking forward to improve himself and learn something new.</subtitle><entry><title type="html">My projects during FIT</title><link href="http://0.0.0.0:4000/2017/10/07/fit-projects.html" rel="alternate" type="text/html" title="My projects during FIT" /><published>2017-10-07T04:37:34-05:00</published><updated>2017-10-07T04:37:34-05:00</updated><id>http://0.0.0.0:4000/2017/10/07/fit-projects</id><content type="html" xml:base="http://0.0.0.0:4000/2017/10/07/fit-projects.html">&lt;p&gt;List of all projects I have done during the study at FIT. They are sorted from newest to oldest.&lt;/p&gt;
+&lt;h3 id=&quot;masters-study-2nd-year&quot;&gt;Masters study 2nd year&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;#&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Subject&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Title&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Technology&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Points&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Diploma Thesis&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://www.vut.cz/www_base/zav_prace_soubor_verejne.php?file_id=181296&quot;&gt;Deep neural networks used for customer support cases analysis&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;NLP, Keras&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Defended and final mark was B&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h3 id=&quot;masters-study-1st-year&quot;&gt;Masters study 1st year&lt;/h3&gt;
 
@@ -153,7 +175,7 @@
     &lt;tr&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;IMS&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;TODO&quot;&gt;Disease simulation in Cellular Automata&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/Raiper34/IMS-Simulation&quot;&gt;Plant growth simulation in Cellular Automata&lt;/a&gt;&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;C&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;20/20&lt;/td&gt;
     &lt;/tr&gt;
@@ -421,4 +443,4 @@
       &lt;td style=&quot;text-align: center&quot;&gt;15/15&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="FIT" /><category term="VUT" /><summary type="html">List of all projects I have done during the study at FIT. They are sorted from newest to oldest.</summary></entry></feed>
+&lt;/table&gt;</content><author><name></name></author><category term="FIT" /><category term="VUT" /><summary type="html">List of all projects I have done during the study at FIT. They are sorted from newest to oldest. Masters study 2nd year</summary></entry></feed>

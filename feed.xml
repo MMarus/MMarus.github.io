@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2023-07-09T13:17:54-05:00</updated><id>http://0.0.0.0:4000/</id><title type="html">Marek Marusic</title><subtitle>Marek Marusic - Software Engineer passionate about technology, who is always looking forward to improve himself and learn something new.</subtitle><entry><title type="html">My projects during FIT</title><link href="http://0.0.0.0:4000/2017/10/07/fit-projects.html" rel="alternate" type="text/html" title="My projects during FIT" /><published>2017-10-07T04:37:34-05:00</published><updated>2017-10-07T04:37:34-05:00</updated><id>http://0.0.0.0:4000/2017/10/07/fit-projects</id><content type="html" xml:base="http://0.0.0.0:4000/2017/10/07/fit-projects.html">&lt;p&gt;List of all projects I have done during the study at FIT. They are sorted from newest to oldest.&lt;/p&gt;
-&lt;h3 id=&quot;masters-study-2nd-year&quot;&gt;Masters study 2nd year&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2023-07-21T06:35:58-05:00</updated><id>http://0.0.0.0:4000/</id><title type="html">Marek Marusic</title><subtitle>Marek Marusic - Software Engineer passionate about technology, who is always looking forward to improve himself and learn something new.</subtitle><entry><title type="html">My projects during FIT</title><link href="http://0.0.0.0:4000/2017/10/07/fit-projects.html" rel="alternate" type="text/html" title="My projects during FIT" /><published>2017-10-07T04:37:34-05:00</published><updated>2017-10-07T04:37:34-05:00</updated><id>http://0.0.0.0:4000/2017/10/07/fit-projects</id><content type="html" xml:base="http://0.0.0.0:4000/2017/10/07/fit-projects.html">&lt;!-- #List of all projects I have done during the study at FIT. They are sorted from newest to oldest. --&gt;
+&lt;h5 id=&quot;masters-study-2nd-year&quot;&gt;Masters study 2nd year&lt;/h5&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -22,7 +22,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&quot;masters-study-1st-year&quot;&gt;Masters study 1st year&lt;/h3&gt;
+&lt;h5 id=&quot;masters-study-1st-year&quot;&gt;Masters study 1st year&lt;/h5&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -122,7 +122,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&quot;my-bachelor-thesis&quot;&gt;My Bachelor thesis&lt;/h3&gt;
+&lt;h5 id=&quot;my-bachelor-thesis&quot;&gt;My Bachelor thesis&lt;/h5&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -145,7 +145,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&quot;bachelors-study-3rd-year&quot;&gt;Bachelors study 3rd year&lt;/h3&gt;
+&lt;h5 id=&quot;bachelors-study-3rd-year&quot;&gt;Bachelors study 3rd year&lt;/h5&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -210,7 +210,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&quot;bachelors-study-2nd-year&quot;&gt;Bachelors study 2nd year&lt;/h3&gt;
+&lt;h5 id=&quot;bachelors-study-2nd-year&quot;&gt;Bachelors study 2nd year&lt;/h5&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -317,7 +317,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&quot;bachelors-study-1st-year&quot;&gt;Bachelors study 1st year&lt;/h3&gt;
+&lt;h5 id=&quot;bachelors-study-1st-year&quot;&gt;Bachelors study 1st year&lt;/h5&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -443,4 +443,4 @@
       &lt;td style=&quot;text-align: center&quot;&gt;15/15&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="FIT" /><category term="VUT" /><summary type="html">List of all projects I have done during the study at FIT. They are sorted from newest to oldest. Masters study 2nd year</summary></entry></feed>
+&lt;/table&gt;</content><author><name></name></author><category term="FIT" /><category term="VUT" /><summary type="html">Masters study 2nd year # Subject Title Technology Points 1 Diploma Thesis Deep neural networks used for customer support cases analysis NLP, Keras Defended and final mark was B Masters study 1st year # Subject Title Technology Points 1 BIO Iris recognition C#, EmguCV 16/18 2 PDB Land management Java SE, JavaFX 20/20 3 BIF Dynamic programming Python 13/14 4 BIN/EVO Cellular automata Art C++ 25/25 5 PRL Enumeration sort C++, OpenMPI 10/10 6 PRL Mesh multiplication C++, OpenMPI 6/10 7 ARC CPU heat simulation C++, OpenMP 10/10 8 ARC CPU heat simulation C++, OpenMPI 20/20 9 KRY Secure tunnel C++ 7/7 10 KRY Security evaluator of HTTPS pages C++ 8/8 11 ZRE LPC decoder Go 15/15 12 ZRE Recognition of words HTK 14/14 My Bachelor thesis # Subject Title Technology Grade 1 Bachelor Thesis Automatization of MitM Attack for SSL/TLS Decryption Python, C B Bachelors study 3rd year # Subject Title Technology Points 1 IIS Information system for doctors PHP(nette) 29/30 2 IMP Configurable counter asembler HCS08 12/14 3 IMS Plant growth simulation in Cellular Automata C 20/20 4 ISA SIP client C/C++ 14/15 5 ITU Real time collaborative environment Node.js (socket.io, express.js) 47/55 6 ITW Recreate a web page HTML,CSS 20/20 7 IW5 Movies browser C#, Entity FW, WPF 33/70 Bachelors study 2nd year # Subject Title Technology Points 1 IAL Linked lists and que C 10/10 2 IAL Binary trees C 10/10 3 IFJ Pascal Interpreter C 13/20 4 INP Matrix display writing VHDL 13/13 5 INP Matrix display writing VHDL 19/20 6 ISS Image modification Matlab 11/12 7 IDS Information system model for doctors SQL 32/34 8 IPK Linux users info server C 12.5/15 9 IPP C stats in PHP PHP 9/10 10 IPP XML to DDL script Python 10/10 11 IZG Rabbit rendering C (SDL) 14/18 12 IJA Labyrinth Game Java SE, Swing 100/100 13 ISJ Twitter and phorum scraper Python 36/40 Bachelors study 1st year # Subject Title Technology Points 1 IZP Wordcounter C 5/5 2 IZP Iterative calculations C 10/10 3 IZP Pattern search C 7/10 4 IUS Documentation for IZP/Project2 - 10/10 5 IUS Information system model - 13.5/20 6 ITO Project - 10/15 7 INC Project VHDL 20/20 8 IOS Bash scripts bash 15/15 9 IOS Semaphores C 14/15 10 IJC Primes by Erathostenes C 12/15 11 IJC Word count and Hash tables C 10/15 12 ITY Typography and Publishing 1 LaTex 10/10 13 ITY Typography and Publishing 2 LaTex 3/15 14 ITY Typography and Publishing 3 LaTex 14/15 15 ITY Typography and Publishing 4 LaTex 15/15 16 ITY Typography and Publishing 5 LaTex 15/15</summary></entry></feed>

@@ -1,116 +1,63 @@
-# How to use this:
+# Marek Marusic
 
+Seasoned Software Engineer with 9+ years of experience. Passionate about solving complex problems alongside talented teams. Continuously seeking to expand my skills and improve myself with a growth mindset. My first contact with code was in 2008 (was 15 years old) when I started to read books about PHP, SQL and Linux. Later on I started to host and write web pages for web eshops and write automation scripts with PHP. Later on I was playing with multiple linux distros and ended up using Arch Linux as my daily driver during the first years of university studies. After all these endevours I was able to join Red Hat and jump start my SWE carrer alongside my fulltime university studies.
 
-`docker compose up`
+# **Experience**
 
-after generating the page can be  taken from the _site and you can copy this to the github io pages
+## **Technical team lead | ndd Medizintechnik AG | Jan 2024 – Present (2y)**
 
+- Plan design, architecture and road map for new features based on bussines requirements in collaboration with PM, regulatory affairs office and other SW teams
 
-# materialize-jekyll
+- Lead sprint planning, task allocation, and progress reporting for a 3-person engineering team
 
-![Materialize meets Jekyll](http://res.cloudinary.com/victorpre/image/upload/v1503466230/Gem%20materialize-jekyll/materialize-jekyll.png)
+- Architected and developed mission-critical APIs and services from scratch using **C#**, **Azure Service Bus, Docker, Azure Kubernetes,** and deployed in **ArgoCD** supporting medical device data processing
 
-Welcome to your **materialize-jekyll** theme! This is where [Materialize](http://materializecss.com/) meets [Jekyll](https://jekyllrb.com/).
+- Identified and resolved critical system bottleneck by implementing queue-based architecture, achieving 3x throughput improvement for PDF generation services
+- Implemented **Security-as-Code** methodology by automating Azure Security Benchmark compliance through policy sets and **CI/CD** pipelines to deploy them
+- Established comprehensive testing framework incorporating unit tests, integration tests, and containerized testing environments using **C#, TestContainers, xUnit, and NSubstitute**
+- Implemented changes to our infrastructure as code (**IaC** using **Terraform**), resulting in more than 15% cost reduction by replacing costly services and improving resource utilization
+- Designed and implemented our CI/CD release strategy leveraging a **trunk-based development** workflow implemented by **Azure pipelines**, enabling deployments to dev, test, and production environments while maintaining strict quality controls required for medical device software
 
-Demo available: [here](http://victorpre.com/blog/)
+## **Software Engineer | Loepfe Brothers AG | Oct 2019 – Dec 2023 (4y 3m)**
 
-## Installation
+- Created dev, test, and production environments for 3 projects by setting up **Kubernetes** clusters with **IaC** using **Terraform** and created **CI/CD** to deploy the services with **Helm charts**
+- Introduced **Fluent Bit** for logging and metrics forwarding to Elasticsearch
+- Streamlined MS Azure pipelines setup for new projects by standardizing the release process and creating templates resulting in decreased release times of 5 projects
+- Taught about advanced details of our software products at 2 seminars for our customer support
+- Developed an end-to-end device registration system with a client application, RESTful API (OpenAPI), **MongoDB** database, and **Angular** frontend, enabling device traceability for manufactured devices
 
-Add this line to your Jekyll site's `Gemfile`:
+## **Jr. Software Engineer | Red Hat (Czechia) | Jan 2018 - Sep 2019 (1y 9m)**
 
-```ruby
-gem "materialize-jekyll"
-```
+- Developed features in **open-source** projects such as Wildfly, Quarkus.io, RESTEasy using **Java**
+- Optimized machine learning pipeline performance (**Python, Keras, Docker**):
+  - 30% reduction in time and 50% reduction in memory usage in data pre-processing
+  - Containerized GPU-enabled development environments using Docker
+- Decreased query parameter processing time in **Java RESTEasy** project by 1300x by debugging and fixing performance issue
+- Built features to configure automatic renewal of SSL certificates from **Let's Encrypt** via CLI in the **JBoss EAP**
 
-And add this line to your Jekyll site's `_config.yml`:
+## **Part Time Jr. Software Engineer | Red Hat (Czechia) | Aug 2014 - Dec 2017 (3y 5m)**
 
-```yaml
-theme: materialize-jekyll
-```
+- Developed features in API for issue tracking from Jira and Bugzilla using **Java**
+- Developed automated tests for **Red Hat Enterprise Linux** components in **Bash and Python**
 
-And then execute:
+# **Education**
 
-    $ bundle
+## **Bachelor in Information Technology | June 2016 | Brno University of Technology**
+<br />
 
-Or install it yourself as:
+## **Master in Bioinformatics and biocomputing | June 2018 | Brno University of Technology**
 
-    $ gem install materialize-jekyll
+# **Technical Projects**
 
+- **Customer support case analysis with deep neural networks** (2018) - Updated, improved, and compared existing **AI** models as part of my Master's thesis (**Python, Keras, AI/ML**)
+- Obsidian plugin for displaying tasks in a calendar view for easier planning and scheduling (**Typescript**)
 
-> **Note**: if you are hosting your site with [GitHub Pages](https://pages.github.com/) you will have to clone this project and copy the theme files manually to your directory.
+# **Skills & Abilities**
 
+- Proficient: C#; Python; SQL; Docker; Azure Cloud; Git
+- Prior Experience: Java; Linux; TypeScript; Kubernetes; Helm; Protobuf; Terraform; ArgoCd; Keras; OpenMPI
 
-## Usage
+# **Nationality and Languages**
 
-### Project tree:
-```
-materialize-jekyll    
-│
-├─── _includes   
-|      ├─── author.html
-|      ├─── comments.html
-|      ├─── date.html
-|      ├─── footer.html
-|      ├─── header.html
-|      ├─── navbar.html
-│      └─── share.html
-├─── _layouts
-│      ├─── compress.html
-│      ├─── default.html
-│      ├─── home.html
-│      └─── post.html
-├─── _posts
-│
-├─── _sass
-│      ├─── _author.scss
-│      ├─── _cards.scss
-│      ├─── _navbar.scss
-│      ├─── _post.scss
-│      ├─── _syntax.scss
-│      ├─── _tags.scss
-│      └─── _variables.html
-└─── assets
-     │
-     └─── css
-     │    └─── main.scss
-     └─── img
-     │    └─── icons
-     └─── js
-          ├─── init.js
-          └─── vendor
-```
-
-This gem offers some *main* layouts that can be used/edited:
-- The `_layouts/default.html`, is the skeleton of the pages, where header,footer, assets are called. It should be used in most of the other layouts,
-- The `_layouts/home.html` is the main layout the will be your home, where your blog posts will be shown;
-- The `_layouts/post.html` is the layout used to present the blog posts themselves, where they will be rendered.
-
-Inside the `_includes/` directory there are the partials that are used inside the layouts.
-
-The stylesheets of this gem can be edited both in `_sass/` and in `assets/css/main.scss`.
-The main colors of the theme can be found and customized in `_sass/variables.scss`.
-
-To edit the current JavaScript functions of the gem, the file you are looking for is in `assets/js/init.js`.
-
-Your blog posts (`*.md` files) should be put in the `_posts` directory.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/victorpre/materialize-jekyll. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
-
-## Credits
-
-This theme was inspired by the [Google's Material Design](https://material.io/guidelines/#introduction-goals), using the components from [Materialize](https://github.com/Dogfalo/materialize) framework and it has a lot of influence from [Willian Justen's Card Jekyll Template](https://github.com/willianjusten/cards-jekyll-template).
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
+- Nationality: Slovak (EU/EFTA)
+- Languages: English (Fluent), Slovak (Mothertongue)

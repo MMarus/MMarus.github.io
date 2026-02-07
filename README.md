@@ -7,19 +7,12 @@ Seasoned Software Engineer with 9+ years of experience. Passionate about solving
 ## **Technical lead of cloud team | ndd Medizintechnik AG | Jan 2024 – Present (2y)**
 
 - Plan, design and architect cloud solutions based on bussines requirements in collaboration with PM, regulatory affairs office and other SW teams
-
 - Lead sprint planning, task allocation, and progress reporting for a 3-person **cloud** team
-
-- Designed and developed mission-critical APIs and services using **C#**, **Azure Service Bus, Docker, Azure Kubernetes,** and deployed in **ArgoCD** supporting medical device data processing
-
+- Designed and developed mission-critical APIs and services using **C#**, **Azure Service Bus, Docker, Azure Kubernetes,** deployed in **ArgoCD** supporting medical device data processing
 - Review existing architecture, to idnetify potential improvements, cost savings or bottlenecks
-
 - Implemented **Security-as-Code** methodology by automating Azure Security Benchmark compliance through policy sets and **CI/CD** pipelines to deploy them
-
 - Established comprehensive testing framework incorporating unit tests, integration tests, and containerized testing environments using **C#, TestContainers, xUnit, and NSubstitute**
-
 - Implemented changes to our infrastructure as code (**IaC** using **Terraform**), resulting in more than 15% cost reduction by replacing costly services and improving resource utilization
-
 - Designed and implemented our CI/CD release strategy leveraging a **trunk-based development** workflow implemented by **Azure pipelines**, enabling deployments to dev, test, and production environments while maintaining strict quality controls required for medical device software
 
 ## **Software Engineer | Loepfe Brothers AG | Oct 2019 – Dec 2023 (4y 3m)**

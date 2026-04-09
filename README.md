@@ -37,12 +37,10 @@ Seasoned Software Engineer with 9+ years of experience. Passionate about solving
 - Developed features in API for issue tracking from Jira and Bugzilla using **Java**
 - Developed automated tests for **Red Hat Enterprise Linux** components in **Bash and Python**
 
-# **Education**
-
-## **Bachelor in Information Technology | June 2016 | Brno University of Technology**
-<br />
-
-## **Master in Bioinformatics and biocomputing | June 2018 | Brno University of Technology**
+# **Education & Certifications**
+- Azure Administrator Associate (AZ-104) | February 2026 | Microsoft
+- Master in Bioinformatics and biocomputing | June 2018 | Brno University of Technology
+- Bachelor in Information Technology | June 2016 | Brno University of Technology
 
 # **Technical Projects**
 

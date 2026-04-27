@@ -1,15 +1,15 @@
 # Marek Marusic
 
-Seasoned Software Engineer with 9+ years of experience. Passionate about solving complex problems alongside talented teams. Continuously seeking to expand my skills and improve myself with a growth mindset. My first contact with code was in 2008 (was 15 years old) when I started to read books about PHP, SQL and Linux. Later on I started to host and write web pages for web eshops and write automation scripts with PHP. Later on I was playing with multiple linux distros and ended up using Arch Linux as my daily driver during the first years of university studies. After all these endevours I was able to join Red Hat and jump start my SWE carrer alongside my fulltime university studies.
+Seasoned Software Engineer with 9+ years of experience. Passionate about solving complex problems alongside talented teams. Continuously seeking to expand my skills and improve myself with a growth mindset. My first contact with code was in 2008 (I was 15 years old) when I started to read books about PHP, SQL, and Linux. Later on I started to host and write web pages for web eshops and write automation scripts with PHP. Later on I was playing with multiple linux distros and ended up using Arch Linux as my daily driver during the first years of university studies. After all these endeavors, I was able to join Red Hat and jump start my SWE career alongside my full-time university studies.
 
 # **Experience**
 
 ## **Technical lead of cloud team | ndd Medizintechnik AG | Jan 2024 – Present (2y)**
 
-- Plan, design and architect cloud solutions based on bussines requirements in collaboration with PM, regulatory affairs office and other SW teams
+- Plan, design, and architect cloud solutions based on business requirements in collaboration with PM, regulatory affairs office, and other SW teams
 - Lead sprint planning, task allocation, and progress reporting for a 3-person **cloud** team
 - Designed and developed mission-critical APIs and services using **C#**, **Azure Service Bus, Docker, Azure Kubernetes,** deployed in **ArgoCD** supporting medical device data processing
-- Review existing architecture, to idnetify potential improvements, cost savings or bottlenecks
+- Review existing architecture to identify potential improvements, cost savings, or bottlenecks
 - Implemented **Security-as-Code** methodology by automating Azure Security Benchmark compliance through policy sets and **CI/CD** pipelines to deploy them
 - Established comprehensive testing framework incorporating unit tests, integration tests, and containerized testing environments using **C#, TestContainers, xUnit, and NSubstitute**
 - Implemented changes to our infrastructure as code (**IaC** using **Terraform**), resulting in more than 15% cost reduction by replacing costly services and improving resource utilization
@@ -29,7 +29,7 @@ Seasoned Software Engineer with 9+ years of experience. Passionate about solving
 - Optimized machine learning pipeline performance (**Python, Keras, Docker**):
   - 30% reduction in time and 50% reduction in memory usage in data pre-processing
   - Containerized GPU-enabled development environments using Docker
-- Decreased query parameter processing time in **Java RESTEasy** project by 1300x by debugging and fixing performance issue
+- Decreased query parameter processing time in the **Java RESTEasy** project by 1300x by debugging and fixing performance issue
 - Built features to configure automatic renewal of SSL certificates from **Let's Encrypt** via CLI in the **JBoss EAP**
 
 ## **Part Time Jr. Software Engineer | Red Hat (Czechia) | Aug 2014 - Dec 2017 (3y 5m)**
@@ -46,7 +46,7 @@ Seasoned Software Engineer with 9+ years of experience. Passionate about solving
 # **Technical Projects**
 
 - **Customer support case analysis with deep neural networks** (2018) - Updated, improved, and compared existing **AI** models as part of my Master's thesis (**Python, Keras, AI/ML**)
-- Obsidian plugin for displaying tasks in a calendar view for easier planning and scheduling (**Typescript**)
+- Obsidian plugin for displaying tasks in a calendar view for easier planning and scheduling (**TypeScript**)
 
 # **Skills & Abilities**
 
@@ -56,4 +56,4 @@ Seasoned Software Engineer with 9+ years of experience. Passionate about solving
 # **Nationality and Languages**
 
 - Nationality: Slovak (EU/EFTA)
-- Languages: English (Fluent), Slovak (Mothertongue)
+- Languages: English (Fluent), Slovak (Mother-tongue)

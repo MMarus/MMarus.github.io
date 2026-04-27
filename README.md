@@ -44,10 +44,9 @@ Seasoned Software Engineer with 9+ years of experience. Passionate about solving
 - Bachelor in Information Technology | June 2016 | Brno University of Technology
 
 # **Technical Projects**
-- Obsidian plugin for displaying tasks in a calendar view for easier planning and scheduling (**Typescript**)
+
 - **Customer support case analysis with deep neural networks** (2018) - Updated, improved, and compared existing **AI** models as part of my Master's thesis (**Python, Keras, AI/ML**)
-
-
+- Obsidian plugin for displaying tasks in a calendar view for easier planning and scheduling (**Typescript**)
 
 # **Skills & Abilities**
 

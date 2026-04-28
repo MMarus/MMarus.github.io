@@ -32,7 +32,7 @@ Seasoned Software Engineer with 9+ years of experience. Passionate about solving
 - Decreased query parameter processing time in the **Java RESTEasy** project by 1300x by debugging and fixing performance issue
 - Built features to configure automatic renewal of SSL certificates from **Let's Encrypt** via CLI in the **JBoss EAP**
 
-## **Part Time Jr. Software Engineer | Red Hat (Czechia) | Aug 2014 - Dec 2017 (3y 5m)**
+## **Part-Time Jr. Software Engineer | Red Hat (Czechia) | Aug 2014 - Dec 2017 (3y 5m)**
 
 - Developed features in API for issue tracking from Jira and Bugzilla using **Java**
 - Developed automated tests for **Red Hat Enterprise Linux** components in **Bash and Python**
